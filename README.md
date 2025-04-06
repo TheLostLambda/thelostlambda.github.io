@@ -4,6 +4,7 @@
 - [Astro](https://astro.build/)
 - [Tailwind](https://tailwindcss.com/)
 - [Svelte](https://svelte.dev/)
+- [Skeleton](https://www.skeleton.dev/)
 
 # Astro Starter Kit: Minimal
 
