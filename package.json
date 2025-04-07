@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "astro": "astro",
+    "build": "astro build",
     "prettier": "prettier",
     "eslint": "eslint",
     "stylelint": "stylelint"
