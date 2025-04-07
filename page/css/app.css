@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab:600');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+
+:root {
+    --font-stack: 'Josefin Slab', serif;
+    --mono-font-stack: 'IBM Plex Mono', monospace;
+    --bg-color: #f5e3e0;
+    --fg-color: #32292f;
+    --pa-color: #6e7dab;
+    --sa-color: #fc7753;
+    --ta-color: #4c5760;
+}
+
+body {
+    font-family: var(--font-stack);
+    font-size: 1.4rem;
+    background-color: var(--bg-color);
+    color: var(--fg-color);
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#filters {
+    height: 0;
+}
+
+#content {
+    margin-top: 4rem;
+    text-align: center;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#content > p {
+    width: 80%;
+}
+
+header {
+    min-height: 4rem;
+    font-size: 1rem;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    filter: drop-shadow(0 0.1rem 0.3rem var(--fg-color));
+}
+
+.navbar, #links{
+    background-color: var(--fg-color);
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar * {
+    color: var(--bg-color);
+}
+
+.blink {
+    transition: color 0.5s ease;
+}
+
+.blink:hover {
+    color: var(--sa-color);
+    transition: color 0.05s ease;
+}
+
+.lit {
+    color: var(--sa-color);
+    transition: none;
+}
+
+footer {
+    justify-content: space-around;
+    font-size: 1rem;
+    flex-wrap: wrap;
+}
+
+footer > * {
+    margin: 0 1rem;
+}
+
+.separator {
+    width: 2px;
+    height: 3.5rem;
+    background-color: var(--bg-color);
+    margin: 0 1.25rem;
+}
+
+.space {
+    margin: 0 0.625rem;
+}
+
+.logo {
+    margin: 1rem 0;
+    width: 3rem;
+    height: 3rem;
+    position: relative;
+}
+    
+.logo > * {
+    width: inherit;
+    height: inherit;
+    transition: opacity 0.5s ease;
+}
+
+#logo-active {
+    filter: url(#saccentify);
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+#logo-sleepy {
+    filter: url(#backgroundify);
+}
+
+.logo:hover *{
+    transition: opacity 0.1s ease;
+}
+
+.logo:hover #logo-active {
+    opacity: 1;
+}
+
+.logo:hover #logo-sleepy {
+    opacity: 0;
+}
+
+#jumbotron {
+    width: 100%;
+    padding-bottom: 1rem;
+    background-color: var(--fg-color);
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#jumbotron > * {
+    color: var(--bg-color);
+}
+
+#jumbotron > h1 {
+    font-size: 10vmin;
+    width: 80%;
+}
+
+#splashes {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 10%;
+    justify-content: center;
+}
+
+#splashes > * {
+    display: none;
+    font-size: 3.75vmin;
+}
+
+#splashes > span {
+    display: inline;
+    font-family: var(--mono-font-stack);
+    transition: color 1s linear; /*Play with the timing function*/
+    white-space: pre;
+}
+
+#splashes > span.hot {
+    transition: none;
+    color: var(--sa-color);
+}
+
+#banner {
+    filter: url(#backgroundify);
+    width: auto;
+}
+
+.center-sec {
+    padding: 0 10% 0;
+}
+
+.left-sec {
+    width: 100%;
+    text-align: left;
+}
+
+.right-sec {
+    width: 100%;
+    text-align: right;
+    background-color: var(--ta-color);
+    color: var(--bg-color);
+}
+
+.left-sec > *, .right-sec > * {
+    width: 60%;
+}
+
+.left-sec > * {
+    margin-left: 10%;
+}
+
+.right-sec > * {
+    margin-left: 30%;
+}
+
+.center-sec.justify > p, .left-sec.justify > p, .right-sec.justify > p {
+    text-align: justify;
+}
+
+.rest {
+    flex-grow: 1;
+}
+
+a {
+    text-decoration: none;
+    color: var(--pa-color);
+}
+
+header > a {
+    line-height: 0;
+}
+
+#gallery {
+    width: 80%;
+    column-gap: 0.3rem;
+    column-width: 300px;
+}
+
+.responsive-image {
+    line-height: 0;
+    vertical-align: top;
+}
+
+.responsive-image img {
+    width: 100%;
+    height: auto;
+    margin: 0.150rem;
+    line-height: 0;
+}
+
+@media screen and (max-width: 720px) {
+    .separator {
+        display: none;
+    }
+    #links > a > h1 {
+        line-height: 0.5;
+    }
+    header, #links {
+        flex-flow: column;
+    }
+    #links {
+        height: 0;
+        overflow: hidden;
+        transition: height 0.5s ease;
+    }
+    header:hover > #links {
+        height: 16rem;
+    }
+    a > .logo {
+        transform: rotate(0deg);
+        transition: transform 0.5s ease;
+    }
+    header:hover > a > .logo {
+        transform: rotate(90deg);
+    }
+    .left-sec > *, .right-sec > * {
+        width: 80%;
+        margin-left: 10%;
+    }   
+}

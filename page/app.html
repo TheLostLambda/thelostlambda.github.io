@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="NVWSg9hg6rpgcmxWa1sQJtW8O3D7jo5arJDnkkRum5c" />
+
+    <title>TheLostLambda</title>
+    <link rel=icon href="favicon.ico">
+    <link rel="stylesheet" href="/css/app.css">
+    <script src="/js/app.js"></script>
+  </head>
+
+  <body>
+    <svg id="filters">
+      <defs>
+        <filter id="paccentify">
+          <feColorMatrix
+            color-interpolation-filters="sRGB"
+            type="matrix"
+            values="0.43 0    0    0  0
+                    0    0.49 0    0  0
+                    0    0    0.67 0  0
+                    0    0    0    1  0 "/>
+        </filter>
+        <filter id="saccentify">
+          <feColorMatrix
+            color-interpolation-filters="sRGB"
+            type="matrix"
+            values="0.99 0    0    0  0
+                    0    0.47 0    0  0
+                    0    0    0.33 0  0
+                    0    0    0    1  0 "/>
+        </filter>
+        <filter id="taccentify">
+          <feColorMatrix
+            color-interpolation-filters="sRGB"
+            type="matrix"
+            values="0.30 0    0    0  0
+                    0    0.34 0    0  0
+                    0    0    0.38 0  0
+                    0    0    0    1  0 "/>
+        </filter>
+        <filter id="foregroundify">
+          <feColorMatrix
+            color-interpolation-filters="sRGB"
+            type="matrix"
+            values="0.20 0    0    0  0
+                    0    0.16 0    0  0
+                    0    0    0.18 0  0
+                    0    0    0    1  0 "/>
+        </filter>
+        <filter id="backgroundify">
+          <feColorMatrix
+            color-interpolation-filters="sRGB"
+            type="matrix"
+            values="0.96 0    0    0  0
+                    0    0.89 0    0  0
+                    0    0    0.88 0  0
+                    0    0    0    1  0 "/>
+        </filter>
+      </defs>
+    </svg>
+    <header class="navbar">
+      <div class="space"></div>
+      <a href="/">
+        <div class="logo">
+          <img id="logo-sleepy" src="/images/logo.svgz">
+          <img id="logo-active" src="/images/logo.svgz">
+        </div>
+      </a>
+      <div id="links">
+        <div class="separator"></div>
+        <a href="blog"><h1 class="blink">BLOG</h1></a>
+        <div class="separator"></div>
+        <a href="coding"><h1 class="blink">CODING</h1></a>
+        <div class="separator"></div>
+        <a href="photos"><h1 class="blink">PHOTOS</h1></a>
+        <div class="separator"></div>
+        <a href="projects"><h1 class="blink">PROJECTS</h1></a>
+      </div>
+    </header>
+    <div id="content">
+      ##BODY##
+    </div>
+    <footer class="navbar">
+      <p>Built From Scratch In Haskell</p>
+      <a href="documents/CV.pdf"><p class="blink">Hire Me?</p></a>
+      <a href="https://github.com/TheLostLambda/thelostlambda.xyz"><p class="blink">Here Be Dragons</p></a>
+      <p>Last Updated 2022-01-13</p>
+    </footer>
+</body>
+</html>
