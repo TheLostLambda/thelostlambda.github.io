@@ -2,6 +2,10 @@
 
 - [Bun](https://bun.sh)
 - [Astro](https://astro.build/)
+  - Markdoc
+  - Sitemap
+  - Partytown + analytics?
+  - RSS
 - [Tailwind](https://tailwindcss.com/)
 - [Svelte](https://svelte.dev/)
 - [Skeleton](https://www.skeleton.dev/)
