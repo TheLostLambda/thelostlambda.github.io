@@ -1,6 +1,9 @@
 dev:
     bun astro dev
 
+install:
+    bun install
+
 build:
     bun astro build
 
@@ -15,4 +18,4 @@ lint:
     bun eslint .
     bun stylelint src/**/*.{css,html,astro,svelte}
 
-ci: build lint
+ci: install build lint
