@@ -1,2 +1,0 @@
-dev:
-    deno run dev

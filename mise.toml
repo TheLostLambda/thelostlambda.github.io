@@ -1,0 +1,8 @@
+[tools]
+deno = "2.9.6"
+
+[tasks.install]
+run = "deno install"
+
+[tasks.dev]
+run = "deno run dev"
