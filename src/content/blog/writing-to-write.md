@@ -45,4 +45,17 @@ Started very late, after 18:30, but still got something done.
 Aiming for a full day (with an 08:30 start) tomorrow.
 Finishing the full PGLang & SMILES section should be within reach.
 
+#### September 14th (44 Days Remaining)
+- **Sleep ::** 5 hours and 46 minutes
+- **Focused Time ::** 7 hours and 7 minutes 
+- **Progress ::** 1,381 words in final draft — no figures
+
+Struggled to get to sleep — turns out it's hard to turn around a sleep schedule in a day...
+Managed a full day (7+ hours) for the first time in recent memory.
+Finished the PGLang & SMILES section.
+That's a major one out of the way!
+I have a couple of short, easy sections ahead of me; I'd like to start and finish at least one tomorrow!
+Unfortunately, I ended up working a bit late today...
+A quicker start tomorrow (and saving dinner for after I finish working) should leave me with some more time to unwind in the evening.
+
 ![Sísifo](../../assets/Sísifo.jpg)
