@@ -58,4 +58,18 @@ I have a couple of short, easy sections ahead of me; I'd like to start and finis
 Unfortunately, I ended up working a bit late today...
 A quicker start tomorrow (and saving dinner for after I finish working) should leave me with some more time to unwind in the evening.
 
+#### September 15th (43 Days Remaining)
+- **Sleep ::** 9 hours and 8 minutes
+- **Focused Time ::** 6 hours and 34 minutes 
+- **Progress ::** 255 words in outline, 526 in final draft — no figures
+
+Slept much better, but had a more distracted day.
+Got sidetracked for several hours (by chores around the house) after coming home for lunch.
+I also felt like I was getting stuck more on wording today...
+Lots of re-writing.
+I tried to make up for lost time by working late (until 22:04), but I didn't quite finish the mass calculation section.
+To finish it tomorrow, I just have to take some screenshots and convert those 255 words of outline into more-polished prose.
+Tomorrow I'll try working from home in the morning, then I'll head to the library in the afternoon.
+That might help me to stay focused even as my energy wanes.
+
 ![Sísifo](../../assets/Sísifo.jpg)
