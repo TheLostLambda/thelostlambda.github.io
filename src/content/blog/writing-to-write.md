@@ -86,4 +86,15 @@ Unfortunately, outlining that has brought me back in contact with some of the wo
 Looking back at it was _deeply_ demoralizing.
 Tomorrow will be a (mostly) off day, though I'll still try for 2.5 focused hours in the morning (at the library).
 
+
+#### September 17th (41 Days Remaining) — Off Day
+- **Sleep ::** 8 hours and 22 minutes
+- **Focused Time ::** 2 hours and 40 minutes
+- **Progress ::** ~634 words in outline — no figures
+
+I didn't get up at 08:00 or do any work in the library, but I made some decent progress regardless.
+For an off day, I'd consider it more than successful.
+Time to recoup a little.
+Tomorrow I _will_ be at the library all day (and will hopefully finish this fragmentation section).
+
 ![Sísifo](../../assets/Sísifo.jpg)
