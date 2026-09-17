@@ -72,4 +72,18 @@ To finish it tomorrow, I just have to take some screenshots and convert those 25
 Tomorrow I'll try working from home in the morning, then I'll head to the library in the afternoon.
 That might help me to stay focused even as my energy wanes.
 
+#### September 16th (42 Days Remaining)
+- **Sleep ::** 8 hours and 4 minutes
+- **Focused Time ::** 5 hours and 19 minutes 
+- **Progress ::** 733 words in outline, 412 in final draft — two simple figures
+
+Hardest day yet...
+That's a worrying trend.
+Ended up working from home the entire day, and didn't get started until 10:30.
+Unfortunately, I think the only way to manage 7 focused hours in a day is to spend it entirely at the library — lunch is just something I'll have to figure out...
+I finished the mass calculation section, and made some outline progress on the fragment prediction section.
+Unfortunately, outlining that has brought me back in contact with some of the worst (and most unfinished) code I've ever written.
+Looking back at it was _deeply_ demoralizing.
+Tomorrow will be a (mostly) off day, though I'll still try for 2.5 focused hours in the morning (at the library).
+
 ![Sísifo](../../assets/Sísifo.jpg)
