@@ -97,4 +97,21 @@ For an off day, I'd consider it more than successful.
 Time to recoup a little.
 Tomorrow I _will_ be at the library all day (and will hopefully finish this fragmentation section).
 
+#### September 18th (40 Days Remaining)
+- **Sleep ::** 8 hours and 57 minutes
+- **Focused Time ::** 7 hours and 6 minutes
+- **Progress ::** 459 words in outline, 846 in final draft — half of a simple figure
+
+When it rains, it pours, or whatever.
+It seems like one of my cats is dying...
+Needless to say, that interrupted my day a bit.
+We're keeping an eye on her.
+The morning before that was good and focused though.
+I didn't finish the fragmentation section because I went on a multi-hour maths adventure, but I got what I wanted out of that, so that's good.
+Got some equations in my thesis to really frighten the biologists with.
+Tomorrow the library is closed in the morning, but I'll do my best to focus from home.
+I'll head in for opening at 1 PM — I'm sure I'll need the boost!
+I really need to wrap up this software chapter in the next week.
+After that, it's onto the introduction, then the bioinformatics chapter, then the discussion.
+
 ![Sísifo](../../assets/Sísifo.jpg)
