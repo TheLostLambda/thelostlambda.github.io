@@ -114,4 +114,17 @@ I'll head in for opening at 1 PM — I'm sure I'll need the boost!
 I really need to wrap up this software chapter in the next week.
 After that, it's onto the introduction, then the bioinformatics chapter, then the discussion.
 
+#### September 19th (39 Days Remaining)
+- **Sleep ::** 7 hours and 11 minutes
+- **Focused Time ::** 22 minutes
+- **Progress ::** ~58 words in final draft — no figures
+
+My cat, Dyson, who was a fifteen-year-old, cow-patterned polydactyl, died today.
+I don't believe in an afterlife — in the literal sense, at least — but everyone leaves a mark on those they knew.
+I think it's through these impressions that the dead live on.
+I'll remember Dyson for the joyful trills she'd give in greeting, her infatuation with the bathroom tap, and all of the kittens she never had.
+
+I can't say I look forward to dying.
+Tomorrow comes.
+
 ![Sísifo](../../assets/Sísifo.jpg)
