@@ -127,4 +127,14 @@ I'll remember Dyson for the joyful trills she'd give in greeting, her infatuatio
 I can't say I look forward to dying.
 Tomorrow comes.
 
+#### September 20th (38 Days Remaining)
+- **Sleep ::** 9 hours and 25 minutes
+- **Focused Time ::** 24 minutes
+- **Progress ::** ~30 words in final draft — no figures
+
+Our other cat (who never goes outside) ran outside this morning and was missing until late tonight when we finally found him.
+I'm sick of the drama.
+I'm sick of the trauma.
+Back in the library tomorrow afternoon, aiming for 4–5 hours of work at a minimum...
+
 ![Sísifo](../../assets/Sísifo.jpg)
