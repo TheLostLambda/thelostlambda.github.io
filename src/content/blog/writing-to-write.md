@@ -137,4 +137,19 @@ I'm sick of the drama.
 I'm sick of the trauma.
 Back in the library tomorrow afternoon, aiming for 4–5 hours of work at a minimum...
 
+#### September 21st (37 Days Remaining)
+- **Sleep ::** 6 hours and 24 minutes
+- **Focused Time ::** 1 hour and 13 minutes
+- **Progress ::** ~244 words in final draft — finished simple figure
+
+Didn't meet my goal today.
+I got too slow of a start in the morning and didn't start working on my thesis until late this evening.
+I'll get to the library around 09:00 tomorrow, then stay until my DMV appointment at 15:30.
+Afterwards, I'll eat lunch then drive back to work more (until 18:30).
+I've got to make up for a lot of lost time, so I'll aim to actually finish the fragmentation section tomorrow.
+It would be nice to get halfway though the Publication 2 bookends as well.
+Breaks remain important, but I might want to do a little bit of work after dinner too.
+We'll see how burnt out I get.
+Can it really get any worse?
+
 ![Sísifo](../../assets/Sísifo.jpg)
