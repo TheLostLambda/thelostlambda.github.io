@@ -152,4 +152,14 @@ Breaks remain important, but I might want to do a little bit of work after dinne
 We'll see how burnt out I get.
 Can it really get any worse?
 
+#### September 22nd (36 Days Remaining)
+- **Sleep ::** 9 hours and 13 minutes
+- **Focused Time ::** 5 hours and 9 minutes
+- **Progress ::** 254 words in outline, 663 in final draft — no figures
+
+Got a late start today (I think I'm still catching up on sleep), and had a DMV appointment (that turned into some more errands afterwards), but I'm happy with how I used the time I had.
+I ended up working until 20:00 in the end.
+Unfortunately, I've still not finished the fragmentation section, and I think that will take me until at least (and hopefully, at most) tomorrow.
+If it takes any longer, I'll need to start dropping content...
+
 ![Sísifo](../../assets/Sísifo.jpg)
