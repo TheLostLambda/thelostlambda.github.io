@@ -162,4 +162,18 @@ I ended up working until 20:00 in the end.
 Unfortunately, I've still not finished the fragmentation section, and I think that will take me until at least (and hopefully, at most) tomorrow.
 If it takes any longer, I'll need to start dropping content...
 
+#### September 23rd (35 Days Remaining)
+- **Sleep ::** 6 hours and 11 minutes
+- **Focused Time ::** 0 minutes
+- **Progress ::** No words, no figures
+
+Just completely failed to do any thesis writing today.
+No real good reason.
+I stayed up too late playing video games with my brother, then slept in late, and spent the rest of the day proofreading a paper.
+That was a lovely time, but afterwards I just never got back to work.
+I've made my Windows unbootable to keep me away from video games, and I'm heading to bed now.
+The plan is to be at the library from ~08:45 until they close at 20:00.
+I can (legally) drive now, so I can get there quickly, pop out for lunch, and get home after dark.
+I'd like this to be the last time I have to write something like this.
+
 ![Sísifo](../../assets/Sísifo.jpg)
