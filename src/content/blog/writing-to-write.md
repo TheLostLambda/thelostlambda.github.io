@@ -176,4 +176,21 @@ The plan is to be at the library from ~08:45 until they close at 20:00.
 I can (legally) drive now, so I can get there quickly, pop out for lunch, and get home after dark.
 I'd like this to be the last time I have to write something like this.
 
+#### September 24th (34 Days Remaining)
+- **Sleep ::** 8 hours and 57 minutes
+- **Focused Time ::** 3 hours and 51 minutes
+- **Progress ::** 618 words in final draft, no figures
+
+It's something, but not as much as I would have liked.
+I needed to spend nearly two hours helping a collaborator with some analysis for a paper, and about an hour fighting Three to cancel my phone plan.
+Still, I could have done more in the evening, but I stopped working around 19:00.
+I ended up sleeping in because I was struggling to fall asleep last night, but I'll try again tonight.
+I'd like to (at least) cross the 7-hour line tomorrow.
+Perhaps I stay away from email entirely — if anyone needs more from me, they can wait.
+
+Every day, it gets a little easier.\
+But you gotta do it every day.\
+That's the hard part.\
+But it does get easier.
+
 ![Sísifo](../../assets/Sísifo.jpg)
