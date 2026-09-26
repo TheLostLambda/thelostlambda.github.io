@@ -193,4 +193,15 @@ But you gotta do it every day.\
 That's the hard part.\
 But it does get easier.
 
+#### September 25th (33 Days Remaining)
+- **Sleep ::** 9 hours and 9 minutes
+- **Focused Time ::** 7 hours and 13 minutes
+- **Progress ::** 765 words in outline, 207 in final draft, half of a simple figure
+
+Happy to be back on track.
+I'm perhaps coming down with a cold (everyone else in my house has it), but I'm powering through.
+I got sidetracked doing a bit of research about graph fragmentation algorithms today (since I had to write about it), but it was interesting, at least.
+I'm embarrassed to admit I'm still working on the fragmentation section...
+My goal tomorrow is to finish that and the Publication 2 bookends — however long it takes...
+
 ![Sísifo](../../assets/Sísifo.jpg)
