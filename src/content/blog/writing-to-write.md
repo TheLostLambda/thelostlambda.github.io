@@ -204,4 +204,18 @@ I got sidetracked doing a bit of research about graph fragmentation algorithms t
 I'm embarrassed to admit I'm still working on the fragmentation section...
 My goal tomorrow is to finish that and the Publication 2 bookends — however long it takes...
 
+#### September 26th (32 Days Remaining)
+- **Sleep ::** 7 hours and 53 minutes
+- **Focused Time ::** 5 hours and 35 minutes
+- **Progress ::** 125 words in outline, 874 in final draft, finished simple figure
+
+Ideally, I would have slept and worked for a bit longer, but I'm just happy I finished that fragmentation section.
+I might even be proud of it...
+One pattern that's repeating is: working late, leads to sleeping late, leads to starting work late, then working late again.
+It's a cycle I'm familiar with and that I'll need to break.
+Tomorrow could be a good opportunity, as I'm planning to see a friend in the afternoon.
+With that said, there's still work to do, so I'll aim for 3 hours and 20 minutes of focused work before then.
+If that's not enough time to finish the bookends and start on the next section, I'll do a bit more.
+Beyond that, my goal will be stopping work on time and getting to sleep early — it'll be a busy week!
+
 ![Sísifo](../../assets/Sísifo.jpg)
