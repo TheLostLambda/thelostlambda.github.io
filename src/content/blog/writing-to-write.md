@@ -179,7 +179,7 @@ I'd like this to be the last time I have to write something like this.
 #### September 24th (34 Days Remaining)
 - **Sleep ::** 8 hours and 57 minutes
 - **Focused Time ::** 3 hours and 51 minutes
-- **Progress ::** 618 words in final draft, no figures
+- **Progress ::** 618 words in final draft — no figures
 
 It's something, but not as much as I would have liked.
 I needed to spend nearly two hours helping a collaborator with some analysis for a paper, and about an hour fighting Three to cancel my phone plan.
@@ -196,7 +196,7 @@ But it does get easier.
 #### September 25th (33 Days Remaining)
 - **Sleep ::** 9 hours and 9 minutes
 - **Focused Time ::** 7 hours and 13 minutes
-- **Progress ::** 765 words in outline, 207 in final draft, half of a simple figure
+- **Progress ::** 765 words in outline, 207 in final draft — half of a simple figure
 
 Happy to be back on track.
 I'm perhaps coming down with a cold (everyone else in my house has it), but I'm powering through.
@@ -207,7 +207,7 @@ My goal tomorrow is to finish that and the Publication 2 bookends — however lo
 #### September 26th (32 Days Remaining)
 - **Sleep ::** 7 hours and 53 minutes
 - **Focused Time ::** 5 hours and 35 minutes
-- **Progress ::** 125 words in outline, 874 in final draft, finished simple figure
+- **Progress ::** 125 words in outline, 874 in final draft — finished simple figure
 
 Ideally, I would have slept and worked for a bit longer, but I'm just happy I finished that fragmentation section.
 I might even be proud of it...
@@ -217,5 +217,16 @@ Tomorrow could be a good opportunity, as I'm planning to see a friend in the aft
 With that said, there's still work to do, so I'll aim for 3 hours and 20 minutes of focused work before then.
 If that's not enough time to finish the bookends and start on the next section, I'll do a bit more.
 Beyond that, my goal will be stopping work on time and getting to sleep early — it'll be a busy week!
+
+#### September 27th (31 Days Remaining)
+- **Sleep ::** 6 hours and 45 minutes
+- **Focused Time ::** 5 hours and 7 minutes
+- **Progress ::** 487 words in outline, 488 in final draft — no figures
+
+I didn't end up going out today, but I did do some good work and finish those bookends, so I'm proud of that.
+I'm heading to bed (mostly on time) now, and will be up early tomorrow to head to the library.
+I'll aim for another 3 hours and 20 minutes of work (minimum) before heading to meet up with my friend I was supposed to see today.
+One more section and I'll be done with the main chunk of the software chapter, leaving just the "related" and "ongoing" work sections.
+I'll be honest, those sections aren't super small, and I'm a bit afraid of that, but all I can do is try.
 
 ![Sísifo](../../assets/Sísifo.jpg)
