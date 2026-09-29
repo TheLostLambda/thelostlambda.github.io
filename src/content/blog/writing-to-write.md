@@ -229,4 +229,17 @@ I'll aim for another 3 hours and 20 minutes of work (minimum) before heading to 
 One more section and I'll be done with the main chunk of the software chapter, leaving just the "related" and "ongoing" work sections.
 I'll be honest, those sections aren't super small, and I'm a bit afraid of that, but all I can do is try.
 
+#### September 28th (30 Days Remaining)
+- **Sleep ::** 8 hours and 16 minutes
+- **Focused Time ::** 3 hours and 44 minutes
+- **Progress ::** 732 words in outline, 365 in final draft — no figures
+
+I did actually end up going out today, and it was nice to see my friend!
+It's left me feeling a little bit more human.
+I'm also pretty pleased with the work I got done in the time allotted: I finished outlining the next section and wrote the final draft for half of it.
+Tomorrow I'll aim for a full day (7+ hours) spent at the library.
+I'm officially in my last month, which is very... unnerving.
+I need to finish one software section per day at a minimum this week — otherwise I'll run out of time and have to move on to writing the introduction (leaving the software chapter unfinished).
+Let's stay well-rested so I can stay hard-working.
+
 ![Sísifo](../../assets/Sísifo.jpg)
