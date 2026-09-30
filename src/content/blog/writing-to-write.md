@@ -242,4 +242,17 @@ I'm officially in my last month, which is very... unnerving.
 I need to finish one software section per day at a minimum this week — otherwise I'll run out of time and have to move on to writing the introduction (leaving the software chapter unfinished).
 Let's stay well-rested so I can stay hard-working.
 
+#### September 29th (29 Days Remaining)
+- **Sleep ::** 9 hours and 40 minutes
+- **Focused Time ::** 5 hours and 14 minutes
+- **Progress ::** 307 words in outline, 440 in final draft — outlined complex figure
+
+I slept in in the morning, so I didn't quite get to my 7 hours, but I worked solidly until the end of the day.
+I also got some good work done in the morning when I had a spare moment at home (before leaving for the library).
+I think I'm getting a bit better at taking advantage of small free moments, instead of putting off starting until I have a large chunk of free time.
+Keeping this brief so I can wake up early and hit that 7 hour target!
+I need to finish the "Docking Consistency Score" section tomorrow and make a dent in the GLAM one.
+
+I'll need a lot of therapy to forget about GLAM.
+
 ![Sísifo](../../assets/Sísifo.jpg)
