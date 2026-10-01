@@ -255,4 +255,15 @@ I need to finish the "Docking Consistency Score" section tomorrow and make a den
 
 I'll need a lot of therapy to forget about GLAM.
 
+#### September 30th (28 Days Remaining) — Off Day
+- **Sleep ::** 7 hours and 43 minutes
+- **Focused Time ::** 0 hours and 0 minutes
+- **Progress ::** 0 words in outline, 0 in final draft — no figures
+
+No clear reason for why today was so bad, aside from the fact I didn't start my day with work or head to the library.
+Without the strong start or good environment, I just never got started.
+I'll count this as my "Off Day", and try to work solidly until next week.
+Tomorrow, I'll make sure I'm at the library before 09:00!
+I'll be helped with that by all the construction workers showing up at 08:00...
+
 ![Sísifo](../../assets/Sísifo.jpg)
