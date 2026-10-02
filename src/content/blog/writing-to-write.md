@@ -266,4 +266,18 @@ I'll count this as my "Off Day", and try to work solidly until next week.
 Tomorrow, I'll make sure I'm at the library before 09:00!
 I'll be helped with that by all the construction workers showing up at 08:00...
 
+#### October 1st (27 Days Remaining)
+- **Sleep ::** 5 hours and 26 minutes
+- **Focused Time ::** 0 hours and 0 minutes
+- **Progress ::** 0 words in outline, 0 in final draft — no figures
+
+Okay, when I said "no clear reason", I think there was one: I installed my new GPU in my computer first thing in the morning instead of jumping into work.
+From then on, the rest of my day was playing with that.
+Afterwards, since I'd spent some irritating time trying to get a local LLM running, I procrastinated heading to bed.
+I did that for so long, playing video games, that I didn't get to bed until ~07:30 this morning...
+Obviously, I'm feeling pretty rough.
+Tomorrow is the last weekday of this week, so it's the last day with full library hours.
+I'll bike there in the morning, head home for lunch (for less than one hour), then drive back to work through the afternoon.
+If I can manage it, I should do a bit of overtime these next few days...
+
 ![Sísifo](../../assets/Sísifo.jpg)
