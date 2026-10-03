@@ -280,4 +280,15 @@ Tomorrow is the last weekday of this week, so it's the last day with full librar
 I'll bike there in the morning, head home for lunch (for less than one hour), then drive back to work through the afternoon.
 If I can manage it, I should do a bit of overtime these next few days...
 
+#### October 2nd (26 Days Remaining)
+- **Sleep ::** 10 hours and 5 minutes
+- **Focused Time ::** 7 hours and 40 minutes
+- **Progress ::** 245 words in outline, 0 in final draft — very complex figure
+
+Lots of time spent on coming up with a new way to visualize ligand docking consensuses...
+Should be able to focus tomorrow on writing to get some more words down...
+I want to finish this section and move onto GLAM.
+I'll aim for an afternoon library trip (once it's open).
+I may sleep in a bit, as it's rather late at the moment...
+
 ![Sísifo](../../assets/Sísifo.jpg)
