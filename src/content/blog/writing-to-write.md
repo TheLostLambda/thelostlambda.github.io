@@ -291,4 +291,13 @@ I want to finish this section and move onto GLAM.
 I'll aim for an afternoon library trip (once it's open).
 I may sleep in a bit, as it's rather late at the moment...
 
+#### October 3rd (25 Days Remaining)
+- **Sleep ::** 5 hours and 33 minutes
+- **Focused Time ::** 1 hours and 11 minutes
+- **Progress ::** 100 words in outline, 0 in final draft — added to complex figure
+
+Another bad day where I didn't get started until (very) late because I stayed up too long the night before.
+I'm kinda out of time for bad days, so I've promised three of my dear readers picture-proof that I'll be at the library from opening until close tomorrow.
+I'll also be a bit stricter about sticking to my pomodoro timer — I need to keep my efficiency up!
+
 ![Sísifo](../../assets/Sísifo.jpg)
