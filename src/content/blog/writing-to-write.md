@@ -323,4 +323,14 @@ I'll have to (for now) drop the "Ongoing Work" part of this chapter.
 If I have some more time after finishing everything else, I can come back to it...
 Let's keep working hard so I can make that a reality.
 
+#### October 6th (22 Days Remaining)
+- **Sleep ::** 7 hours and 35 minutes
+- **Focused Time ::** 6 hours and 14 minutes
+- **Progress ::** 487 in final draft — one figure
+
+A decent day, but damn slow progress.
+It's a difficult section to write, and I need desperately to be done with it...
+Tomorrow I'll head to the library right after my 08:00 meeting...
+On the plus side, I'm done with insurance, UPS, and phone company bullshit (for now)...
+
 ![Sísifo](../../assets/Sísifo.jpg)
