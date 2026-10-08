@@ -326,11 +326,22 @@ Let's keep working hard so I can make that a reality.
 #### October 6th (22 Days Remaining)
 - **Sleep ::** 7 hours and 35 minutes
 - **Focused Time ::** 6 hours and 14 minutes
-- **Progress ::** 487 in final draft — one figure
+- **Progress ::** 487 words in final draft — one figure
 
 A decent day, but damn slow progress.
 It's a difficult section to write, and I need desperately to be done with it...
 Tomorrow I'll head to the library right after my 08:00 meeting...
 On the plus side, I'm done with insurance, UPS, and phone company bullshit (for now)...
 
+#### October 7th (21 Days Remaining)
+- **Sleep ::** 8 hours and 2 minutes
+- **Focused Time ::** 7 hours and 16 minutes
+- **Progress ::** 1,263 words in final draft — one figure
+
+A highly productive day, but it felt brutal, and I'll need to finish the docking section tomorrow morning.
+On the upside, that should be doable — there is very little left to do.
+Normally, after a day that felt as hard as today, I'd give myself a break.
+Alas.
+I'll aim for a 09:00 start in the library tomorrow.
+Life resumes in four years...
 ![Sísifo](../../assets/Sísifo.jpg)
