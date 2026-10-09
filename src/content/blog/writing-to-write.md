@@ -344,4 +344,18 @@ Normally, after a day that felt as hard as today, I'd give myself a break.
 Alas.
 I'll aim for a 09:00 start in the library tomorrow.
 Life resumes in four years...
+
+#### October 8th (20 Days Remaining)
+- **Sleep ::** 6 hours and 40 minutes
+- **Focused Time ::** 7 hours and 22 minutes
+- **Progress ::** 569 words in final draft — one figure + one walk through hell
+
+Started relatively on time this morning and finished the docking consistency section.
+All that's left of the software chapter (for now) is the GLAM section.
+The rest of my day was burnt on reviewing the latest version of that GLAM manuscript...
+It's a very long way from being done, and I don't know if I'm brave enough to put any of it in my thesis.
+I'd like to do whatever I decide to do tomorrow — I should have started work on the introduction chapter yesterday!
+Focusing tonight on getting some good sleep.
+I'll need it.
+
 ![Sísifo](../../assets/Sísifo.jpg)
