@@ -358,4 +358,16 @@ I'd like to do whatever I decide to do tomorrow — I should have started work o
 Focusing tonight on getting some good sleep.
 I'll need it.
 
+#### October 9th (19 Days Remaining)
+- **Sleep ::** 7 hours and 45 minutes
+- **Focused Time ::** 3 hours and 58 minutes
+- **Progress ::** 115 words in outline — no figures + one glimpse into the maw of Ayin
+
+A pretty bad day.
+I was obliterated by the GLAM manuscript yesterday, and I made the mistake of glancing at a different manuscript today.
+I gave up on it pretty quickly, but I didn't emotionally recover for quite some time...
+That said, it's been a restorative day — I'll have the energy to try again tomorrow.
+I did briefly help my supervisor with some docking predictions today.
+It's nice to be of some use to some people, sometimes.
+
 ![Sísifo](../../assets/Sísifo.jpg)
