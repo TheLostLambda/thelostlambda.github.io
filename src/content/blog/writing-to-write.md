@@ -370,4 +370,16 @@ That said, it's been a restorative day — I'll have the energy to try again tom
 I did briefly help my supervisor with some docking predictions today.
 It's nice to be of some use to some people, sometimes.
 
+#### October 10th (18 Days Remaining)
+- **Sleep ::** 6 hours and 45 minutes
+- **Focused Time ::** 28 minutes
+- **Progress ::** 0 words — work on simple figure
+
+I didn't have the energy for today.
+Not enough sleep, and I never started work in the morning.
+I'm heading to bed very early, and I'm planning on tomorrow being very long.
+I'd like to do more than 8 hours.
+Writing for that whole time is hard, so I'll try to finish all of this GLAM stuff in the morning, then pivot to making figures for the bioinformatics chapter in the evening.
+From then on, it'll be Introduction writing during the day, and bioinformatics figures in the evening.
+
 ![Sísifo](../../assets/Sísifo.jpg)
