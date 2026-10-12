@@ -382,4 +382,17 @@ I'd like to do more than 8 hours.
 Writing for that whole time is hard, so I'll try to finish all of this GLAM stuff in the morning, then pivot to making figures for the bioinformatics chapter in the evening.
 From then on, it'll be Introduction writing during the day, and bioinformatics figures in the evening.
 
+#### October 11th (17 Days Remaining)
+- **Sleep ::** 9 hours and 40 minutes
+- **Focused Time ::** 1 hour and 5 minutes
+- **Progress ::** 436 words in outline — no figures
+
+No good excuses.
+I didn't even write this update on the right day — it's the 12th already.
+The real today (the 12th) is when I'm heading to the library.
+It's time to work in overdrive and, importantly, to start cutting a couple of corners.
+Having something content complete is more important than having something perfectly polished that reads nicely.
+Ugh.
+Here we go.
+
 ![Sísifo](../../assets/Sísifo.jpg)
