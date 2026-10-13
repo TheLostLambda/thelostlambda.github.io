@@ -395,4 +395,18 @@ Having something content complete is more important than having something perfec
 Ugh.
 Here we go.
 
+#### October 12th (16 Days Remaining)
+- **Sleep ::** 8 hours and 14 minutes
+- **Focused Time ::** 5 hours and 6 minutes
+- **Progress ::** 600 words in outline, 766 in final draft — no figures
+
+Not a 100% full day, but I did some of the most efficient writing I've done yet.
+There was significantly less time wasted rewording things over and over.
+I finished the bookends for the GLAM paper, the Motivation section for GLAM, and almost fully outlined the rest of the GLAM section.
+Tomorrow I've got 2 hours of driving and a doctors appointment, but even with that, I should be able to fully finish this draft software chapter.
+I've realized I still need to write its Discussion & Future Work section...
+
+You gotta do it every day. \
+That's the hard part.
+
 ![Sísifo](../../assets/Sísifo.jpg)
