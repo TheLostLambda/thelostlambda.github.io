@@ -409,4 +409,14 @@ I've realized I still need to write its Discussion & Future Work section...
 You gotta do it every day. \
 That's the hard part.
 
+#### October 13th (15 Days Remaining)
+- **Sleep ::** 7 hours and 45 minutes
+- **Focused Time ::** 5 hours and 33 minutes
+- **Progress ::** 797 words in outline, 528 in final draft — one simple figure
+
+Another pretty efficient day, I just had a lot less time than I thought I would — in the evening I needed to help my brother move back in.
+Panic has set in, so it's time to hit some much higher numbers.
+I almost, but didn't quite finish the GLAM section (which is very frustrating...)
+Running for my life now.
+
 ![Sísifo](../../assets/Sísifo.jpg)
