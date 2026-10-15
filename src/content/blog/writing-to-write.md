@@ -419,4 +419,16 @@ Panic has set in, so it's time to hit some much higher numbers.
 I almost, but didn't quite finish the GLAM section (which is very frustrating...)
 Running for my life now.
 
+#### October 14th (14 Days Remaining)
+- **Sleep ::** 8 hours and 2 minutes
+- **Focused Time ::** 5 hours and 4 minutes
+- **Progress ::** 918 words in outline, 457 in final draft — no figures
+
+Because I was up late after rescuing my brother, I also slept in late...
+That means I got a lot less done today than I would have liked, though it was, again, decently efficient.
+GLAM is done, future software work needs to be finished tomorrow.
+There is a lot to do there, but it feels feasible (from what I've done on it so far).
+I've promised people I'll be at the library before 9 AM.
+It's the most I can do.
+
 ![Sísifo](../../assets/Sísifo.jpg)
