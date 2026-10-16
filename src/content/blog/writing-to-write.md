@@ -431,4 +431,16 @@ There is a lot to do there, but it feels feasible (from what I've done on it so 
 I've promised people I'll be at the library before 9 AM.
 It's the most I can do.
 
+#### October 15th (13 Days Remaining)
+- **Sleep ::** 7 hours and 21 minutes
+- **Focused Time ::** 7 hours and 24 minutes
+- **Progress ::** 1,522 words in outline, 614 in final draft — no figures
+
+Very solid day.
+I started on time, and got 7 hours of work done before coming home.
+The only issue is that I'd planned to do a bit more after getting home, but I hardly did any...
+Uh, unrelated, my Windows bootloader has been deleted again...
+I nearly finished the future software work section, but some of the final draft still needs writing.
+I'd like to get more than 8 hours of work in tomorrow, with some of that being on the introduction!
+
 ![Sísifo](../../assets/Sísifo.jpg)
