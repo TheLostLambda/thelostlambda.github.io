@@ -443,4 +443,20 @@ Uh, unrelated, my Windows bootloader has been deleted again...
 I nearly finished the future software work section, but some of the final draft still needs writing.
 I'd like to get more than 8 hours of work in tomorrow, with some of that being on the introduction!
 
+#### October 16th (12 Days Remaining)
+- **Sleep ::** 7 hours and 21 minutes
+- **Focused Time ::** 9 hours and 14 minutes
+- **Progress ::** 894 words in final draft — got bioinformics pipeline running
+
+Terrifying numbers showing up on that countdown...
+We'll keep doing what we can.
+Writing was a bit slow today since I spent an immense amount of time getting that pipeline working.
+With that said, the "Future work" part of the software chapter is done.
+On to the introduction.
+It's going to be a bit shit, but hopefully it'll do.
+
+Sunk into some of my deepest despair yet when I was ruminating about AI today.
+In what will I find my self-worth when everything I do can be done better by a machine?
+I'll try to postpone my full emotional collapse until at least the 29th.
+
 ![Sísifo](../../assets/Sísifo.jpg)
