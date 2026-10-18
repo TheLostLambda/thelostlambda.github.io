@@ -459,4 +459,17 @@ Sunk into some of my deepest despair yet when I was ruminating about AI today.
 In what will I find my self-worth when everything I do can be done better by a machine?
 I'll try to postpone my full emotional collapse until at least the 29th.
 
+#### October 17th (11 Days Remaining)
+- **Sleep ::** 6 hours and 54 minutes
+- **Focused Time ::** 9 hours and 3 minutes
+- **Progress ::** 698 words in outline, 351 in final draft — found bacterial envelope figure
+
+Finally making a dent in the introduction — I can reuse more of my literature review than I thought.
+Unfortunately, I don't think that was a big enough dent...
+I'll need to speed things up.
+I did make some good progress on one of the last bits of my large bioinformatics pipeline (domain extraction).
+That will be helpful/important for a couple of the figures I'm planning to make.
+
+Tomorrow I'll need to get up to the LDT-portion of my introduction.
+God-willing, and all that.
 ![Sísifo](../../assets/Sísifo.jpg)
