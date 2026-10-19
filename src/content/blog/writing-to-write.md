@@ -472,4 +472,22 @@ That will be helpful/important for a couple of the figures I'm planning to make.
 
 Tomorrow I'll need to get up to the LDT-portion of my introduction.
 God-willing, and all that.
+
+#### October 18th (10 Days Remaining)
+- **Sleep ::** 7 hours and 19 minutes
+- **Focused Time ::** 5 hours and 8 minutes
+- **Progress ::** 529 words in outline, 0 in final draft — nearly finished bioinformatics pipeline
+
+I'm into my final 10 days, so it's time to move very quickly.
+Tomorrow morning I'll head straight to the library (by bike) and dedicate a bit of time to creating a "final sprint" plan.
+I'll note down everything that has to be done, and everything that would be nice to have too (ordered by priority).
+Perhaps I can also group things by high, medium, and low effort — the low effort stuff I can knock out near the end of the day when I'm (more) dead inside (than usual).
+Importantly, I'll figure out exactly when and where to submit my thesis.
+
+Today was much slower than I'd have liked, but it was my mother's birthday, so I baked her a cake.
+Let's hope I'm a better PhD student than I am a baker...
+In 10 days, we'll find out!
+
+HSAC!WDTK?DTKT??LFO!
+
 ![Sísifo](../../assets/Sísifo.jpg)
