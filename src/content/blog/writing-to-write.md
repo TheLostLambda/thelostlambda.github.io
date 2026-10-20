@@ -490,4 +490,15 @@ In 10 days, we'll find out!
 
 HSAC!WDTK?DTKT??LFO!
 
+#### October 18th (10 Days Remaining)
+- **Sleep ::** 6 hours and 37 minutes
+- **Focused Time ::** 9 hours and 45 minutes
+- **Progress ::** 1,377 words in outline, 758 in final draft — no figures
+
+I'm fucked.
+Like, really fucked.
+All I can do is work my absolute hardest.
+I'll survive, even if I'm a bit embarrassed.
+Need to catch up on the introduction tomorrow: finishing the PG section and making a good dent in the LDT one too.
+
 ![Sísifo](../../assets/Sísifo.jpg)
