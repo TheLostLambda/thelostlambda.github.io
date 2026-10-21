@@ -490,7 +490,7 @@ In 10 days, we'll find out!
 
 HSAC!WDTK?DTKT??LFO!
 
-#### October 18th (10 Days Remaining)
+#### October 19th (9 Days Remaining)
 - **Sleep ::** 6 hours and 37 minutes
 - **Focused Time ::** 9 hours and 45 minutes
 - **Progress ::** 1,377 words in outline, 758 in final draft — no figures
@@ -500,5 +500,21 @@ Like, really fucked.
 All I can do is work my absolute hardest.
 I'll survive, even if I'm a bit embarrassed.
 Need to catch up on the introduction tomorrow: finishing the PG section and making a good dent in the LDT one too.
+
+#### October 20th (8 Days Remaining)
+- **Sleep ::** 7 hours and 45 minutes
+- **Focused Time ::** 8 hours and 9 minutes
+- **Progress ::** 599 words in outline, 1,064 in final draft — three introduction figures
+
+I'm less fucked.
+I'm dropping the bioinformatics chapter, just putting in what I already have as a short appendix that doesn't need as much writing.
+Still, I'm behind on the intro, so I'll need a strong day tomorrow.
+Felt like crying for most of today, and that made the work a bit harder.
+It's kinda the worst thing in the world to know that you'll have to put 110% of yourself into something — at the cost of your health and happiness — just to end up with something that feels mediocre.
+I don't want to invest my time into something if I'm not able to do it to the best of my ability.
+I guess I'll need to be disciplined enough to always pull off my best, or wise enough to not end up invested in the first place.
+
+Many mistakes made.\
+Many lessons to learn.
 
 ![Sísifo](../../assets/Sísifo.jpg)
