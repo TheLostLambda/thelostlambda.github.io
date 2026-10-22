@@ -517,4 +517,22 @@ I guess I'll need to be disciplined enough to always pull off my best, or wise e
 Many mistakes made.\
 Many lessons to learn.
 
+#### October 21st (7 Days Remaining)
+- **Sleep ::** 6 hours and 20 minutes
+- **Focused Time ::** 8 hours and 4 minutes
+- **Progress ::** 795 words in outline, 424 in final draft — no figures
+
+Wasted way too much time finding sources today.
+Made the mistake of actually trying to properly read some of them.
+Nearly enjoyed myself.
+Still on the peptidoglycan diversity part of the introduction.
+God willing, I finish it tomorrow (or I'm back in "really fucked" territory).
+I was up late last night talking to my brother, so I had to sleep in and couldn't do as much today.
+It didn't help that I (again) got hit by a wave of AI-depression after reading someone's slide title: "You have 1–5 years left to make a cognitive contribution to the world".
+Horrifying to think that I'd have suffered for four years through a PhD project I was never particularly interested in, with a supervisor I don't particularly (scientifically) get along with, all for the promise of an enjoyable career that may no longer even exist.
+Kinda grim.
+I suppose I'll really have to get my shit together over these next couple of years.
+One more failure like this PhD and I'll lose my chance to make a "cognitive contribution to the world" forever.
+Cool.
+
 ![Sísifo](../../assets/Sísifo.jpg)
