@@ -535,4 +535,14 @@ I suppose I'll really have to get my shit together over these next couple of yea
 One more failure like this PhD and I'll lose my chance to make a "cognitive contribution to the world" forever.
 Cool.
 
+#### October 22nd (6 Days Remaining)
+- **Sleep ::** 8 hours and 3 minutes
+- **Focused Time ::** 8 hours and 44 minutes
+- **Progress ::** 558 words in outline, 1,004 in final draft — one figure
+
+Better.
+Done with the peptidoglycan diversity section.
+I need to wrap up the intro by the end of the 24th — if I can manage that, I'll be okay!
+Exciting to be so close to freedom.
+
 ![Sísifo](../../assets/Sísifo.jpg)
