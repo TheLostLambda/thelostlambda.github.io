@@ -545,4 +545,14 @@ Done with the peptidoglycan diversity section.
 I need to wrap up the intro by the end of the 24th — if I can manage that, I'll be okay!
 Exciting to be so close to freedom.
 
+#### October 23rd (5 Days Remaining)
+- **Sleep ::** 6 hours and 24 minutes
+- **Focused Time ::** 6 hours and 2 minutes
+- **Progress ::** 543 words in outline, 627 in final draft — no figures
+
+A relatively bad day — the first one in a while!
+I made the mistake of staying at home, and didn't really get started on work until the afternoon.
+I think I'll still (just about) survive, but I've certainly condemned myself to a rough couple of days.
+Well, let's start paying off that debt.
+
 ![Sísifo](../../assets/Sísifo.jpg)
