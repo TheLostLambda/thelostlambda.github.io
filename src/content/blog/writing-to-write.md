@@ -555,4 +555,15 @@ I made the mistake of staying at home, and didn't really get started on work unt
 I think I'll still (just about) survive, but I've certainly condemned myself to a rough couple of days.
 Well, let's start paying off that debt.
 
+#### October 24th (4 Days Remaining)
+- **Sleep ::** 6 hours and 58 minutes
+- **Focused Time ::** 6 hours and 2 minutes
+- **Progress ::** 895 words in outline, 455 in final draft — no figures
+
+Nearly an even worse day.
+Had family over in the evening, so that took a bit of my time when I joined them for dinner.
+After that, my brother kept me up for 4 hours or so.
+It was lovely to chat, but I've had to ban myself from human contact for these next four days...
+Introduction is _not_ done, so that's pretty worrying. 
+
 ![Sísifo](../../assets/Sísifo.jpg)
