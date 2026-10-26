@@ -566,4 +566,18 @@ After that, my brother kept me up for 4 hours or so.
 It was lovely to chat, but I've had to ban myself from human contact for these next four days...
 Introduction is _not_ done, so that's pretty worrying. 
 
+#### October 25th (3 Days Remaining)
+- **Sleep ::** 6 hours and 25 minutes
+- **Focused Time ::** 8 hours and 40 minutes
+- **Progress ::** 1,051 words in outline, 1,155 in final draft — no figures
+
+Not as bad.
+Still got kept up late by my brother (though it was talking about science).
+It's nice to be reminded that biology is actually exciting and interesting, and that there is a reason I've put myself through this.
+Introduction should be something I can finish this morning, and the discussion something I finish this afternoon?
+Then it's a sleepless night or two to sort out the rest of the thesis!
+
+Ideally, I'll get that discussion done today, then burn the midnight oil to get done the rest of the stuff that's mandatory.
+That will leave me with tomorrow to do anything extra that I feel like including.
+
 ![Sísifo](../../assets/Sísifo.jpg)
