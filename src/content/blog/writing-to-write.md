@@ -580,4 +580,17 @@ Then it's a sleepless night or two to sort out the rest of the thesis!
 Ideally, I'll get that discussion done today, then burn the midnight oil to get done the rest of the stuff that's mandatory.
 That will leave me with tomorrow to do anything extra that I feel like including.
 
+#### October 26th (2 Days Remaining)
+- **Sleep ::** 6 hours and 11 minutes
+- **Focused Time ::** 9 hours and 16 minutes
+- **Progress ::** 1,050 words in outline, 1,386 in final draft — one recycled intro figure
+
+Back to being terrified...
+Just barely finished the introduction today, leaving myself a single day to write the "Conclusion".
+Honestly, not really sure what that's even supposed to look like...
+I'll try to recap the major stuff I've contributed / found out and will blabber a bit about the bioinformatics I didn't have time to do.
+Hopefully I can have a short conclusion wrapped up by early afternoon — afterwards I'll still need to write an abstract and the whole bioinformatics appendix...
+As I said, kinda terrifying.
+Well, as long as the conclusion is done, I can submit and survive.
+
 ![Sísifo](../../assets/Sísifo.jpg)
