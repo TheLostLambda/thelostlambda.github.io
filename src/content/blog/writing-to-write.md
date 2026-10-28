@@ -593,4 +593,13 @@ Hopefully I can have a short conclusion wrapped up by early afternoon — afterw
 As I said, kinda terrifying.
 Well, as long as the conclusion is done, I can submit and survive.
 
+#### October 27th (1 Day Remaining)
+- **Sleep ::** 6 hours and 52 minutes
+- **Focused Time ::** 10 hours and 47 minutes
+- **Progress ::** 1,046 words in outline, 1,416 in final draft — no figures
+
+Into the final (less than) 24 hours now.
+I'll make the deadline safely enough, but these last 24 hours will determine how much of my "ongoing work" actually makes it into my thesis.
+I think I can see the light at the end of this tunnel.
+
 ![Sísifo](../../assets/Sísifo.jpg)
