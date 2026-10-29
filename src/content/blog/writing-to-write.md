@@ -602,4 +602,20 @@ Into the final (less than) 24 hours now.
 I'll make the deadline safely enough, but these last 24 hours will determine how much of my "ongoing work" actually makes it into my thesis.
 I think I can see the light at the end of this tunnel.
 
+#### October 28th (THE END)
+- **Sleep ::** 2 hours and 31 minutes
+- **Focused Time ::** 12 hours and 35 minutes
+- **Progress ::** 343 words in outline, 1,746 in final draft — one hard figure, three easy ones
+
+Submitted 6 minutes before the deadline...
+That's pretty diabolical.
+I don't love my thesis, but I really don't hate it either.
+I'm decently proud of what I managed, even if I do wish I'd done some things differently.
+There is a _lot_ to reflect on, but I'll save that for another time.
+I'll be out of action for the next week or so, but I plan to post again by November 9th.
+I've not been perfect, but this blog has significantly helped me stay on track.
+I'd like to keep that going.
+
+So long, and thanks for all the fish.
+
 ![Sísifo](../../assets/Sísifo.jpg)
